@@ -16,7 +16,13 @@ public class Sistema_semed {
      */
     public static void main(String[] args) {
         JFrm_login login = new JFrm_login();
-        //login.setvisible(true);
+        /* Foi cria do variavel login para realizar a ativação do Jframe 
+        JFrm_login.java.
+        */
+        login.setLocationRelativeTo(null);
+        //Comando para a janela aparecer no centro.
+        login.setVisible(true);
+        // Comando para tornar a janela visivel.
     }
     
 }

@@ -3,7 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package escola;
+package escola.telas;
+
+import escola.telas.JfrmPrincipal;
 
 /**
  *
